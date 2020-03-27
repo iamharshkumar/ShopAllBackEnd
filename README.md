@@ -1,2 +1,2 @@
-Project BackEnd for ShopALl
+Project BackEnd for ShopALL
 
